@@ -1,6 +1,6 @@
 # javascript
 
-Example of using the script on the server<br>
+Example of using the JavaScript on the server<br>
 Simple api service
 
 #### Technologies used
